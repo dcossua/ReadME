@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a junior software engineer<br>The languages I have learned : <br> - Java<br> - Python<br> - R<br> - C/C++<br>and still in progress....<br><br>Also, I got the opportunity to learn diverse frameworks during my college journey,<br>big data and AI.
+I'm a software engineer<br>The languages I have learned : <br> - Java<br> - Python<br> - R<br> - C/C++<br>and still in progress....<br><br>Also, I got the opportunity to learn diverse frameworks during my college journey,<br>big data and AI.
 
 
 ## 🌐 Socials:
